@@ -1,34 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
 
-```bash
+```terminal
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot (64)](https://github.com/anilrai4001/Promps-Hub/assets/79553966/cb08e3db-5ba6-4921-8617-4c2146acb049)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![Screenshot (65)](https://github.com/anilrai4001/Promps-Hub/assets/79553966/c2c9a74c-d5b0-4228-8154-9625b2311f91)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Screenshot (66)](https://github.com/anilrai4001/Promps-Hub/assets/79553966/ba25a2c7-321f-4016-8237-4f0331b8c97d)
 
-## Learn More
+![Screenshot (67)](https://github.com/anilrai4001/Promps-Hub/assets/79553966/78672a06-d91c-4743-830e-0a1794d43202)
 
-To learn more about Next.js, take a look at the following resources:
+![Screenshot (68)](https://github.com/anilrai4001/Promps-Hub/assets/79553966/c3f08835-be9f-4008-9d37-b95330ae3353)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot (69)](https://github.com/anilrai4001/Promps-Hub/assets/79553966/6a2bde2f-91c8-46d3-bbfb-4029659d90de)
